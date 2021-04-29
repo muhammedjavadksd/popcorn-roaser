@@ -142,3 +142,9 @@ q {font-style: italic;}
 
 /* Add a blue color to the author */
 .author {color: cornflowerblue;}
+
+.mission{
+  text-align: center;
+  margin-bottom: -30px;
+  margin-top: 40px;
+}
